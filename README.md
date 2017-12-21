@@ -1,2 +1,2 @@
 # CAPE_Analysis
-![alt text](screenshots/download.png "plotting CAPE")
+![alt text](https://github.com/aghazaly/CAPE_Analysis/blob/master/download.png "plotting CAPE")
