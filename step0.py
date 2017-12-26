@@ -9,7 +9,7 @@ import pandas as pd
 
 def get_data(symbol1, symbol2):
 
-	data = pd.read_csv('total.csv') 
+	data = pd.read_csv('total.csv', index_col = 'Date') 
 
 	data['Rate'] = data[symbol1]
 	data['CAPE'] = data[symbol2]
