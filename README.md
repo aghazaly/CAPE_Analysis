@@ -6,4 +6,6 @@ The Cyclically Adjusted Price to Earnings ratio is captured through an 10 year a
 
 The data can be downloaded via this [link](http://www.econ.yale.edu/~shiller/data/ie_data.xls) 
 
+## Plotting interest rates versus CAPE using matplotlib
+
 ![alt text](https://github.com/aghazaly/CAPE_Analysis/blob/master/download.png "plotting CAPE")
